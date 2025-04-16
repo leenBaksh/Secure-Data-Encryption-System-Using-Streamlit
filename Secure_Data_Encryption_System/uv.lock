@@ -1,9 +1,0 @@
-[[package]]
-name = "streamlit"
-version = "1.44.1"
-...
-
-[[package]]
-name = "cryptography"
-version = "44.0.2"
-...
