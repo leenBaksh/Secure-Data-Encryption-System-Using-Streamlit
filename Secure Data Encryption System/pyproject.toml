@@ -1,0 +1,11 @@
+[project]
+name = "secure-data-encryption"
+version = "0.1.0"
+description = "Streamlit app for secure data encryption"
+readme = "README.md"
+requires-python = ">=3.8"
+
+dependencies = [
+    "cryptography>=44.0.2",
+    "streamlit>=1.44.1"
+]
